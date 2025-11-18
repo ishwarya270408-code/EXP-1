@@ -58,10 +58,8 @@ a.   KVL:
 
 b.  KCL:
 
-![kclcal1](https://github.com/user-attachments/assets/28dbc060-0294-4670-b0c3-e39ebf9bc29f)
+![kclcd1](https://github.com/user-attachments/assets/2670d554-1981-41ce-b766-ad606b618f83)
 
-
-![kclcal](https://github.com/user-attachments/assets/2fc6b490-502a-442c-82b6-b99fa96bde03)
 
 
 
@@ -77,6 +75,7 @@ a.   KVL:
 
 b.  KCL:
 
+![kclcal1](https://github.com/user-attachments/assets/28dbc060-0294-4670-b0c3-e39ebf9bc29f)
 ![cal2](https://github.com/user-attachments/assets/8acb0297-bcc3-4c4d-90a2-d2ff930640b4)
 
 
